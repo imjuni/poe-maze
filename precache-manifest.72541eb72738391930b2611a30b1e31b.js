@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b51aa75e534bac513aafe85ef6ca7615",
+    "revision": "1bfba6388a7266286d1691c20539a17b",
     "url": "/poe-maze/index.html"
   },
   {
-    "revision": "c0309e15630272a4bdaa",
+    "revision": "fae51c0c73fcea677f7c",
     "url": "/poe-maze/static/css/main.ed68f78d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poe-maze/static/js/2.b5c25ef9.chunk.js"
   },
   {
-    "revision": "c0309e15630272a4bdaa",
-    "url": "/poe-maze/static/js/main.dcaf49fe.chunk.js"
+    "revision": "fae51c0c73fcea677f7c",
+    "url": "/poe-maze/static/js/main.1909b7f8.chunk.js"
   },
   {
     "revision": "c97570d06f5c2cbf4b1d",
