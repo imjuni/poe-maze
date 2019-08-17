@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed68f78d.chunk.css",
-    "main.js": "/static/js/main.12197fc1.chunk.js",
-    "main.js.map": "/static/js/main.12197fc1.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.066784a5.js",
-    "runtime~main.js.map": "/static/js/runtime~main.066784a5.js.map",
-    "static/js/2.b5c25ef9.chunk.js": "/static/js/2.b5c25ef9.chunk.js",
-    "static/js/2.b5c25ef9.chunk.js.map": "/static/js/2.b5c25ef9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a8dbf3ad1cec2628c0e65802129084f7.js": "/precache-manifest.a8dbf3ad1cec2628c0e65802129084f7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ed68f78d.chunk.css.map": "/static/css/main.ed68f78d.chunk.css.map"
+    "main.css": "/poe-maze/static/css/main.ed68f78d.chunk.css",
+    "main.js": "/poe-maze/static/js/main.37853e41.chunk.js",
+    "main.js.map": "/poe-maze/static/js/main.37853e41.chunk.js.map",
+    "runtime~main.js": "/poe-maze/static/js/runtime~main.1ae17348.js",
+    "runtime~main.js.map": "/poe-maze/static/js/runtime~main.1ae17348.js.map",
+    "static/js/2.b5c25ef9.chunk.js": "/poe-maze/static/js/2.b5c25ef9.chunk.js",
+    "static/js/2.b5c25ef9.chunk.js.map": "/poe-maze/static/js/2.b5c25ef9.chunk.js.map",
+    "index.html": "/poe-maze/index.html",
+    "precache-manifest.98860a651c0841cc5c9f24a5f3d93c01.js": "/poe-maze/precache-manifest.98860a651c0841cc5c9f24a5f3d93c01.js",
+    "service-worker.js": "/poe-maze/service-worker.js",
+    "static/css/main.ed68f78d.chunk.css.map": "/poe-maze/static/css/main.ed68f78d.chunk.css.map"
   }
 }
